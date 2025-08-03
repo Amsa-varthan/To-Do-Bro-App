@@ -2,7 +2,6 @@ FastAPI & PostgreSQL Todo Application
 
 A full-stack Todo application built with a modern Python backend using FastAPI, a PostgreSQL database with Alembic for migrations, and a stylish vanilla JavaScript frontend.
 
-(Optional: Take a screenshot of your running application, upload it to a site like Imgur, and paste the link here.)
 Features
 
     FastAPI Backend: A high-performance, easy-to-use API framework.
